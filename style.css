@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fce4ec;
+    text-align: center;
+    padding: 40px 15px;
+}
+
+.container {
+    background: white;
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px #d8a7b1;
+}
+
+h1 {
+    color: #c2185b;
+}
+
+.flashcard {
+    background: #fff0f5;
+    border: 2px solid #f8bbd0;
+    border-radius: 15px;
+    padding: 30px 15px;
+    margin: 25px 0;
+    min-height: 100px;
+}
+
+button {
+    background: #e91e63;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    margin: 8px 4px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+button:hover {
+    background: #ad1457;
+}
+
+.navigation {
+    margin-top: 15px;
+}
